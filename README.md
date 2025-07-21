@@ -1,4 +1,4 @@
-![logo](https://github.com/KunjYadav/KunjYadav/blob/main/Github%20Banner%20(2).png?raw=true)
+![logo](https://github.com/KunjYadav/KunjYadav/blob/main/Github%20Banner%20New.png?raw=true)
 
 
 <h1 align="center">Hi 👋, I'm Kunj Yadav</h1>
