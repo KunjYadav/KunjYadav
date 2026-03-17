@@ -8,7 +8,6 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
-# 💫 About Me:
 🔭 I’m currently working on MERN Stack Developer<br>👯 I’m looking to collaborate on Vue.js & Nuxt.js<br>🤝 I’m looking for help with developing a AI based Sites<br>🌱 I’m currently learning React.js & Next.js<br>💬 Ask me about Node.js & Express.js<br>⚡ Fun fact - I am lazy but smart
 
 
