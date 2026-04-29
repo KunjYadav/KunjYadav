@@ -10,6 +10,7 @@
 
 🔭 I’m currently working on MERN Stack Developer<br>👯 I’m looking to collaborate on Vue.js & Nuxt.js<br>🤝 I’m looking for help with developing a AI based Sites<br>🌱 I’m currently learning React.js & Next.js<br>💬 Ask me about Node.js & Express.js<br>⚡ Fun fact - I am lazy but smart
 
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9ytquuy9nt) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kunj.yadav555) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunj_yadav_official) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-yadav) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23260659/kunj-yadav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@yadav_kunj) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/KunjKillia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunj.yadav555@gmail.com) 
